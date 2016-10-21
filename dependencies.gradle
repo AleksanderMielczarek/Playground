@@ -1,0 +1,39 @@
+ext {
+    minSdkVersionVersion = 16
+    sdkVersion = 25
+    buildToolsVersionVersion = "25"
+
+    toolsBuildGradleVersion = '2.2.2'
+    androidAptVersion = '1.8'
+    gradleRetrolambdaVersion = '3.3.0'
+    dexcountGradlePluginVersion = '0.6.1'
+    realmGradlePluginVersion = '2.0.2'
+    googleServicesVersion = '3.0.0'
+    gradleVersionsPluginVersion = '0.13.0'
+
+    supportLibraryVersion = '25.0.0'
+    guavaVersion = '19.0'
+    daggerVersion = '2.7'
+    jsr250ApiVersion = '1.0'
+    napkinVersion = '0.2.1'
+    rxandroidVersion = '1.2.1'
+    rxjavaVersion = '1.2.0'
+    rxjavaExtrasVersion = '0.7.9.11'
+    firebaseVersion = '9.6.1'
+    permissionsdispatcherVersion = '2.1.3'
+    bindingSnackbarVersion = '0.1.2'
+    bindingcollectionaderVersion = '1.3.0'
+    androidannotationsVersion = '4.1.0'
+    androidAnnotationsPermissionsDispatcherPluginVersion = '0.1.0'
+    timberVersion = '4.3.1'
+    recyclerviewAnimatorsVersion = '2.2.4'
+    viewanimatorVersion = '1.0.4'
+    permissionsDialogsVersion = '0.1.3'
+    autoFactoryVersion = '1.0-beta3'
+    retrofitVersion = '2.1.0'
+    androidReactiveLocationVersion = '0.9'
+    threetenabpVersion = '1.0.4'
+    rxbindingVersion = '0.4.0'
+    eventbusVersion = '3.0.0'
+    slidinguppanelVersion = '3.3.1'
+}
